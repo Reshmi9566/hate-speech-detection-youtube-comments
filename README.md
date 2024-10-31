@@ -1,5 +1,4 @@
-# Step 1: Create the README file
-echo "# Hate Speech Detection in YouTube Comments on Lok Sabha Elections
+# Hate Speech Detection in YouTube Comments on Lok Sabha Elections
 
 This project aims to detect hate speech in multilingual YouTube comments related to the Lok Sabha elections. By leveraging pretrained models for labeling, the project provides a high-quality dataset and insights for future classification tasks. This repository contains the code for data collection, preprocessing, labeling, and initial model development.
 
